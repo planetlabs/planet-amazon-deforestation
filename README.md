@@ -215,3 +215,6 @@ Blow down, also called [windthrow](https://en.wikipedia.org/wiki/Windthrow), is 
 ![alt text](./img/blowdown.jpg "blow down")
 
 *Above: A recent blow down event in the Amazon circled in red. Note the light green of the forest understory and the pattern of tree loss.*
+
+
+(C) 2017 Planet
