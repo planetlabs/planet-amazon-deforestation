@@ -43,3 +43,5 @@ Now select "Okay in the lower right corner."
 The IR band should now be visible. 
 
 ![alt text](./img/done.png "done.")
+
+(C) 2017 Planet
